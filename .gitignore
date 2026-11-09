@@ -1,0 +1,12 @@
+# Apktool build outputs
+build/
+dist/
+unknown/
+
+# Signing keystore (private key - do not commit)
+*.keystore
+*.jks
+
+# OS
+.DS_Store
+Thumbs.db
