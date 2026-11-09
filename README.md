@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Retro98-icon.png" alt="Retro98 app icon" width="180" />
+  <img src="https://raw.githubusercontent.com/Jackson4Rocks/Retro98/master/Retro98-icon.png" alt="Retro98 app icon" width="180" />
 </p>
 
 <h1 align="center">🖥️ Retro98 — Windows 98 Simulator</h1>
