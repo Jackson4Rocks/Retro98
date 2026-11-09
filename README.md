@@ -73,13 +73,6 @@ Enjoy some familiar Windows classics:
 - Access desktop properties.
 - Personalize the appearance of your Windows 98 desktop.
 
-### 🖱️ External Mouse Support
-
-- USB mouse support.
-- Bluetooth mouse support.
-- Enjoy a more traditional desktop experience using an external mouse.
-
----
 
 ## 📱 Platform
 
