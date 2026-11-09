@@ -1,6 +1,10 @@
-# 🖥️ Retro98 — Windows 98 Simulator
+<p align="center">
+  <img src="Retro98-icon.png" alt="Retro98 app icon" width="180" />
+</p>
 
-**A nostalgic return to the Windows 98 experience.**
+<h1 align="center">🖥️ Retro98 — Windows 98 Simulator</h1>
+
+<p align="center"><strong>A nostalgic return to the Windows 98 experience.</strong></p>
 
 Retro98 is a redux version of **LR-Soft's Windows 98 Simulator**, bringing the iconic Windows 98 desktop experience to Android devices.
 
@@ -9,6 +13,7 @@ Experience the nostalgia of classic Windows with familiar applications, built-in
 ## ✨ Features
 
 ### 🖥️ Classic Windows 98 Desktop
+
 - Familiar Windows 98 desktop interface.
 - Classic Start Menu.
 - Traditional taskbar and desktop layout.
@@ -16,16 +21,19 @@ Experience the nostalgia of classic Windows with familiar applications, built-in
 - Nostalgic Windows 98 experience.
 
 ### 🌐 Internet & Browsing
+
 - Internet Explorer for browsing the web.
 - Classic browser interface.
 - Familiar retro browsing experience.
 
 ### 🎨 Paint
+
 - Draw and create using the classic Paint application.
 - Simple drawing and editing experience.
 - Relive the classic Windows Paint experience.
 
 ### 🎮 Classic Games
+
 Enjoy some familiar Windows classics:
 
 - **Minesweeper** — The classic mine-finding puzzle.
@@ -34,30 +42,39 @@ Enjoy some familiar Windows classics:
 - **FreeCell** — Classic strategy-based card game.
 
 ### 🎵 Multimedia
+
 **Windows Media Player**
+
 - Play music files.
 - Play video files.
 - Classic Windows Media Player interface.
 
 ### 📝 Productivity Applications
+
 **Notepad**
+
 - Write and edit simple text documents.
 
 **WordPad**
+
 - Create and edit text documents with basic formatting.
 
 ### 📁 File Management
+
 **Windows Explorer**
+
 - Browse files stored on your device.
 - Navigate through available folders.
 - Explore your device through a familiar Windows interface.
 
 ### 🎨 Desktop Customization
+
 - Customize desktop wallpapers.
 - Access desktop properties.
 - Personalize the appearance of your Windows 98 desktop.
 
 ### 🖱️ External Mouse Support
+
 - USB mouse support.
 - Bluetooth mouse support.
 - Enjoy a more traditional desktop experience using an external mouse.
@@ -72,10 +89,12 @@ Retro98 is designed for Android devices, recreating the classic desktop environm
 
 ## 🛠️ Project Information
 
-**Project:** Retro98  
-**Type:** Windows 98 Simulator  
-**Platform:** Android  
-**Status:** Development
+| | |
+|---|---|
+| **Project** | Retro98 |
+| **Type** | Windows 98 Simulator |
+| **Platform** | Android |
+| **Status** | Development |
 
 ---
 
